@@ -1,4 +1,4 @@
-name: amazonRDP
+name: AbraRDP
 
 on: workflow_dispatch
 
